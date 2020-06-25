@@ -1,0 +1,9 @@
+Q1: Sort the array[] = { 2, 5, -2, 6, -3, 8, 0, -7, -9, 4 } and print sorted array in console
+Q2: Find the min and max number from []numbers = { 8, 2, 7, 1, 4, 9, 5 }
+Q3: Find the index position of 5 in array[] = { 2, 5, -2, 6, -3, 8, 0, -7, -9, 4 };
+Q4: Merge or combine two arrays
+Q5: Reverse and print the given array int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+Q6: Find the pair with given sum=10 from the arr={1,2,3,4,5,6,7,8,9}
+
+
+Please visit for some basic concept: https://www.cs.fsu.edu/~myers/c++/notes/arrays.html

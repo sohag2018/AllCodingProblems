@@ -1,0 +1,3 @@
+Q1: Create and Write "My name is Sohag" in a file.
+Q2: How do you read from a file?
+Q3:

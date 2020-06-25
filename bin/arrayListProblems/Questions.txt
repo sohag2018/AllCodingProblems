@@ -1,0 +1,6 @@
+Q1: ArrayList[] = [10, 20, 30, 1, 2] How to remove first element of the given ArrayList?
+Q2:Remove duplicate element from ArrayList
+Q3: Can you prove arrayList is not syncronized?
+Q4: Can you make it syncronized ? Ans: We can use Vector instead.    Or use synchronizedList() method from Collections class
+
+

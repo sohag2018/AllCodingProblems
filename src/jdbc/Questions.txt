@@ -1,0 +1,9 @@
+What are the steps of getting JDBC 
+1.Loading the Driver: a.  Class.forName()  OR  b.  DriverManager.registerDriver()
+2.Create the connection:     Connection con=DriverManager.getConnection(url,user, pass)
+3.Create a statement: Statement st=con.createStatement()
+4.Execute the query: con.executeQuery()
+5.close the connection: con.close()
+
+Q1: Can program for JDBC?
+
